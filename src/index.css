@@ -182,6 +182,11 @@ nav {
   background-color: #9b9b9b57;
 }
 
+.hero-content a {
+  text-decoration: none;  
+  color: inherit; 
+}
+
 /* Responsive Styles */
 @media (max-width: 1200px) {
   .hero {

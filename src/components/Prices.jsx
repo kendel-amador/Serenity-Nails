@@ -3,7 +3,7 @@ import React from "react";
 
 function Prices() {
   return (
-    <section className="prices-section">
+    <section className="prices-section" id="precios">
       <Container>
         <Grid container spacing={2}>
           <Grid item xs={12} sm={12} md={6} lg={6} xl={6} className="info-container-prices">

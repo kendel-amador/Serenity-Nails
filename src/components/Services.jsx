@@ -3,7 +3,7 @@ import React from "react";
 
 function Services() {
   return (
-    <section className="services-section">
+    <section className="services-section" id="servicios">
       <h2>Nuestros Servicios</h2>
       <Container>
         <Grid container spacing={3} className="grid-service-container">

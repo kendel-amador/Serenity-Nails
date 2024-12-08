@@ -15,7 +15,7 @@ function Info() {
           <Grid item xs={6} sm={3} md={3} lg={3} xl={3} className="grid-info">
             <div className="icon-text">
               <PiPhoneOutgoingThin className="icon" aria-label="Teléfono" />
-              <p>(506) 6240-0535</p>
+              <p>(506) 7101-6249</p>
             </div>
           </Grid>
           <Grid item xs={6} sm={3} md={3} lg={3} xl={3} className="grid-info">
@@ -33,7 +33,7 @@ function Info() {
           <Grid item xs={6} sm={3} md={3} lg={3} xl={3} className="grid-info">
             <div className="icon-text">
               <PiMapPinThin className="icon" aria-label="Ubicación" />
-              <p>Limón - Colina</p>
+              <p>Cartago - Dulce Nombre</p>
             </div>
           </Grid>
         </Grid>

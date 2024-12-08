@@ -4,7 +4,7 @@ import imageOne from "../assets/img/1.jpg"
 
 function About() {
   return (
-    <section className="about-section">
+    <section className="about-section" id="acerca">
       <Container>
         <Grid container spacing={1}>
           <Grid

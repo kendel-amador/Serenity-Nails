@@ -7,7 +7,7 @@ import foto3 from "../assets/img/3.jpg"
 
 function Contact() {
   return (
-    <section className="contact-section">
+    <section className="contact-section" id="contacto">
       <h2>Síguenos en Instagram</h2>
       <h3>
         <a

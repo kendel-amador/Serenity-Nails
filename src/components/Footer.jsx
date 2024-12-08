@@ -24,7 +24,8 @@ function Footer() {
               alt="Serenity Nails Logo"
               className="footer-logo"
             />
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit!</p>
+            <p>Explora nuestras características y descubre todo lo que tenemos para
+            ofrecerte.</p>
           </Grid>
           <Grid
             className="footer-section"
@@ -38,19 +39,19 @@ function Footer() {
             <h3>Nuestro Salón</h3>
             <ul className="footer-list">
               <li>
-                <a href="">Inicio</a>
+                <a href="#inicio">Inicio</a>
               </li>
               <li>
-                <a href="">Acerca</a>
+                <a href="#acerca">Acerca</a>
               </li>
               <li>
-                <a href="">Servicios</a>
+                <a href="#servicios">Servicios</a>
               </li>
               <li>
-                <a href="">Precios</a>
+                <a href="#precios">Precios</a>
               </li>
               <li>
-                <a href="">Contacto</a>
+                <a href="#contacto">Contacto</a>
               </li>
             </ul>
           </Grid>
@@ -85,17 +86,21 @@ function Footer() {
             <ul className="footer-list">
               <li>
                 <BiLogoInstagram className="icon-footer" />
-                <a href="">__serenity.nails</a>
+                <a href="https://www.instagram.com/__serenity.nails">
+                  __serenity.nails
+                </a>
               </li>
 
               <li>
                 <PiPhoneTransfer className="icon-footer" />
-                <a href="">(506) 6240-0535</a>
+                <a href="https://wa.me/50671016249?text=¡Hola!%20Estoy%20interesada%20en%20agendar%20una%20cita.">
+                  (506) 7101-6249
+                </a>
               </li>
 
               <li>
                 <PiMapPinLineLight className="icon-footer" />
-                <a href="">Colina, Limón</a>
+                <a href="">Cartago, Dulce Nombre</a>
               </li>
             </ul>
           </Grid>
